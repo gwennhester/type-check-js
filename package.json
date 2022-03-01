@@ -18,5 +18,8 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^27.5.1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }
