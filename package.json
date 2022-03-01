@@ -1,5 +1,5 @@
 {
-  "name": "type-check-js",
+  "name": "@gwennhester/type-check-js",
   "version": "1.0.0",
   "description": "data type checks in javascript.",
   "main": "index.js",
