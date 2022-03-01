@@ -9,6 +9,13 @@ Typeof returns a string of what a values data type is, so for an object "object"
 
 ## Installation
 
+Create an `.npmrc` file with the following
+```
+@gwennhester:registry=https://npm.pkg.github.com
+```
+
+Run
+
 ```cli 
 npm install @gwennhester/type-check-js
 ```
