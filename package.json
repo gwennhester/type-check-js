@@ -19,6 +19,10 @@
   "devDependencies": {
     "jest": "^27.5.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gwennhester/type-check-js.git"
+  },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   }
