@@ -1,0 +1,22 @@
+{
+  "name": "type-check-js",
+  "version": "1.0.0",
+  "description": "data type checks in javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest test --verbose",
+    "test-coverage": "jest --coverage --verbose"
+  },
+  "keywords": [
+    "types",
+    "data types",
+    "check",
+    "js",
+    "javascript"
+  ],
+  "author": "gwennhester",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
