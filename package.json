@@ -1,6 +1,6 @@
 {
   "name": "data-type-check-js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "data type checks in javascript.",
   "main": "index.js",
   "scripts": {
