@@ -1,4 +1,4 @@
-# type-check-js
+# data-type-check-js
 A simple data type checks in Javascript.
 
 ## Introduction
@@ -9,21 +9,16 @@ Typeof returns a string of what a values data type is, so for an object "object"
 
 ## Installation
 
-Create an `.npmrc` file with the following
-```
-@gwennhester:registry=https://npm.pkg.github.com
-```
-
 Run
 
 ```cli 
-npm install @gwennhester/type-check-js
+npm install data-type-check-js
 ```
 
 ## Example
 
 ```javascript
-const typecheck = require('@gwennhester/type-check-js');
+const typecheck = require('data-type-check-js');
 
 // isString()
 const isStringTrue = typecheck.isString('hello');
@@ -38,7 +33,7 @@ const isStringFalse = typecheck.isString(123);
 ## Usage
 
 ```javascript
-const typecheck = require('@gwennhester/type-check-js');
+const typecheck = require('data-type-check-js');
 
 /**
  * Returns true if a value is a string.

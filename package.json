@@ -1,5 +1,5 @@
 {
-  "name": "@gwennhester/type-check-js",
+  "name": "data-type-check-js",
   "version": "1.0.2",
   "description": "data type checks in javascript.",
   "main": "index.js",
@@ -22,8 +22,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gwennhester/type-check-js.git"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
   }
 }
